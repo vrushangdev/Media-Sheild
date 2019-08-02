@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87420d91-2b6a-456c-8a66-56877839758e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MediaApi/MediaApi/.flake8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564490242020</updated>
       <workItem from="1564490263029" duration="1378000" />
-      <workItem from="1564720722161" duration="10968000" />
+      <workItem from="1564720722161" duration="11134000" />
     </task>
     <servers />
   </component>
