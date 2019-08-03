@@ -21,7 +21,7 @@ piracy .
 
 What it does ? 
 - [Forensic Watermarking](Docs/ForensicWatermark.md)
-- [DRM Protection](https://discuss.erpnext.com/)
+- [DRM Protection](Docs/DRMProtection.md)
 
 ---
 
