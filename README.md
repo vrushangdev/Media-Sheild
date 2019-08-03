@@ -1,14 +1,9 @@
-<style>
-#logo{
-    border-radius:20%;
-  box-shadow:  10px 10px #00000012;
-}
-</style>
+
 <header>
 <br><br>
 </header>
 <div align="center" >
-    <img  id="logo" src="Docs/assets/images/MediaSheild.png" height="128">
+    <img src="Docs/assets/images/MediaSheild.png" height="128">
     <h2>MEDIA SHEILD</h2>
     <p align="center">
         <b><p>Start protecting your content .</p></b>
